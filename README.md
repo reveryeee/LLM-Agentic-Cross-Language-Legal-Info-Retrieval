@@ -20,4 +20,6 @@ Unlike general-purpose large language models that may hallucinate, this system e
 So, what are the disadvantages of non-agent AI methods, such as simply use the prompt to directly consult legal issues on the LLM (chatgpt, gemini, etc.) webpage, or fine-tuning of the language models?
 1. 
 
-2. 
+
+# 4. Operating Configuration
+GPU: NVIDIA Tesla T4; GPU RAM: 15GB; System RAM:51GB
